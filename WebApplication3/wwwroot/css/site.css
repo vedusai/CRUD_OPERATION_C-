@@ -1,0 +1,28 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.cst_icon {
+    margin-top: 20px;
+    font-size: 50px;
+    color: #0026ff;
+}
+.cst_icon a:hover {
+        color: red;
+        font-size: 60px;
+        transition: 1s ease-in-out;
+}
