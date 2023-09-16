@@ -1,12 +1,10 @@
 
-# Nimap_Task  
-Tasks which this project comprises are listed below.
-1. Download File WebApplication3
-2. Category Master Page with Crud Operation
-3. Product Master Page with Crud Operation. A product Belongs to Category.
-4. DashBoard Contains Product and Category.
-5. Product List with Pagination.
-# successfully completed all the tasks
+#crud_operation
+1. Category Master Page with Crud Operation
+2. Product Master Page with Crud Operation. A product Belongs to Category.
+3. DashBoard Contains Product and Category.
+4. Product List with Pagination.
+
   
 # Database code
 6. CREATE TABLE Category (
